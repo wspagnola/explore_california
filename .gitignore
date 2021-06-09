@@ -2,3 +2,4 @@ access.log
 .DS_Store
 assets/videos/
 !assets/videos/tours.mp4
+db_config.txt
