@@ -1,1 +1,4 @@
 access.log
+.DS_Store
+assets/videos/
+!assets/videos/tours.mp4
