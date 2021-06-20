@@ -9,5 +9,5 @@ print("Y: {}".format(y_list))
 #### one final change
 
 print("You can repeat y with '*2'")
-z = y_list*2
-print(z)
+yy  = y_list*2
+print("2*Y: {}".format(yy))
