@@ -8,6 +8,6 @@ print("Y: {}".format(y_list))
 ### one last change
 #### one final change
 
-
+print("You can repeat y with '*2'")
 z = y_list*2
 print(z)
